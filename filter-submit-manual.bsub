@@ -1,0 +1,14 @@
+#!/bin/sh
+#BSUB -q bowman
+#BSUB -W 120:00
+#BSUB -R "span[ptile=1]"
+#BSUB -J findpairs
+#BSUB -o pairing-index-3091-%J.log
+#BSUB -e pairing-index-3091-%J.log
+
+#this script is submitted manually
+
+source /project/bowmore/borowsky.jonathan/anaconda3/bin/activate
+conda activate snakes
+
+python /project/bowmanlab/borowsky.jonathan/FAST-cs/new_pockets/filter_blast2pairs.py 3091 5000
