@@ -2,17 +2,20 @@ import numpy as np
 import os
 import random
 
-path = "/project/bowmanlab/borowsky.jonathan/FAST-cs/new_pockets/apo_structures_clean"
+suffix = "_2"
+ss_suffix = "ss_"
 
-files = os.listdir("/project/bowmanlab/borowsky.jonathan/FAST-cs/new_pockets/pocketresis_refined")
+path = f"/project/bowmanlab/borowsky.jonathan/FAST-cs/new_pockets/apo_structures_clean{suffix}"
+
+files = os.listdir(f"/project/bowmanlab/borowsky.jonathan/FAST-cs/new_pockets/{ss_suffix}pocketresis_refined{suffix}")
 
 output_test = []
 output_validation = []
 
-n_test = 26
-n_validation = 17
+n_test = 5
+n_validation = 3
 
-vindex = 2 #for keeping track of different copies of the split while testing
+vindex = 3 #for keeping track of different copies of the split while testing
 
 drawing_indices = list(range(n_test+n_validation))
 test_inds = random.sample(drawing_indices, n_test)
@@ -22,7 +25,7 @@ for i in range(len(files)):
     filepath = f"{path}/{files[i][0:5]}_clean.pdb"
     #print(filepath)
 
-    resis = np.load(f"/project/bowmanlab/borowsky.jonathan/FAST-cs/new_pockets/pocketresis_refined/{files[i]}")
+    resis = np.load(f"/project/bowmanlab/borowsky.jonathan/FAST-cs/new_pockets/{ss_suffix}pocketresis_refined{suffix}/{files[i]}")
     #print(resis)
 
     #will fail if numbering actually extends to -999
@@ -51,13 +54,13 @@ for i in range(len(files)):
     else:
         output_validation.append([filepath, label_arr])
 
-#print(output_test)
-#print("_---------------------------------------------------------------------------------------")
-#print("_---------------------------------------------------------------------------------------")
-#print(output_validation)
+print(output_test)
+print("_---------------------------------------------------------------------------------------")
+print("_---------------------------------------------------------------------------------------")
+print(output_validation)
 
 #print(len(np.load("/project/bowmanlab/borowsky.jonathan/FAST-cs/new_pockets/labels/new_pocket_labels_test.npy")))
 
 #uncomment to save new labels
-#np.save(f"new_pocket_labels_test_v{vindex}", output_test)
-#np.save(f"new_pocket_labels_validation_v{vindex}", output_validation)
+#np.save(f"new_pocket_labels_test_v{vindex}_ssc", output_test)
+#np.save(f"new_pocket_labels_validation_v{vindex}_ssc", output_validation)

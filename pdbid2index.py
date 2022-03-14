@@ -7,7 +7,7 @@ directory = "/project/bowmanlab/borowsky.jonathan/FAST-cs/new_pockets/iofiles"
 blast_out = os.listdir(f"{directory}/blast_output/") #filenames for blastp results of candidate holo (MOAD) structures with at least one candidate apo (PDB blastp hit)structure
 
 #look for a holo id
-holo_query = "1glg"
+holo_query = "1h9g"
 print(blast_out.index(f"{holo_query.upper()}_hits.npy")) #get index from holo_id
 
 #look for the first occurrence of an apo id
