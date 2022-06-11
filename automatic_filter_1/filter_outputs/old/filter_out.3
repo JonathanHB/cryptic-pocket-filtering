@@ -1,0 +1,78 @@
+------------------------------------------------------------------------------------------------------------
+5000
+holo: 3k14
+skipping TRIMERIC assembly
+Traceback (most recent call last):
+  File "filter_blast2pairs.py", line 848, in <module>
+    holo_chains_unfiltered = getstruct(holo_id, existing_hids, "holo")
+  File "filter_blast2pairs.py", line 161, in getstruct
+    log_prot_rejection(f"{struct} is a {asm_type} assembly")
+  File "filter_blast2pairs.py", line 37, in log_prot_rejection
+    with open(f"{directory}/note_files/protein_rejection_reasons.log", 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/iofiles/note_files/protein_rejection_reasons.log'
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node114.engr.wustl.edu>
+Subject: Job 1608344[3]: <job_Array[1-10]> in cluster <SEAS-COMPUTE> Exited
+
+Job <job_Array[1-10]> was submitted from host <node19.engr.wustl.edu> by user <borowsky.jonathan> in cluster <SEAS-COMPUTE> at Thu Mar  3 08:46:46 2022
+Job was executed on host(s) <node114.engr.wustl.edu>, in queue <bowman>, as user <borowsky.jonathan> in cluster <SEAS-COMPUTE> at Thu Mar  3 08:31:08 2022
+</home/research/borowsky.jonathan> was used as the home directory.
+</project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/cryptic-pocket-filtering-2/automatic_filter_1> was used as the working directory.
+Started at Thu Mar  3 08:31:08 2022
+Terminated at Thu Mar  3 08:31:32 2022
+Results reported at Thu Mar  3 08:31:32 2022
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/sh
+#BSUB -q bowman
+#BSUB -W 120:00
+#BSUB -n 1
+#BSUB -R "span[ptile=1]" && '(!gpu)'
+#BSUB -J setup
+#BSUB -o filter-%J-%I.log
+#BSUB -e filter-%J-%I.log
+
+prot_indices=() #initialize array
+
+#/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/iofiles/lsf_logs/
+#read standard input file "line" into array
+#NOTE: this only reads lines followed by enters (\n). It will not read the last line of the file as a result
+while read line
+do
+#  echo "$line"
+  prot_indices=("${prot_indices[@]}" "$line") #add current line to array
+done < "${1:-/dev/stdin}"
+
+#echo "${prot_indices[@]}"
+#echo "${prot_indices[0]}"
+#echo "${prot_indices[1]}"
+
+#run filtering script
+python filter_blast2pairs.py "${prot_indices[0]}" "${prot_indices[1]}"
+
+#note on usage:
+#run by auto_filter.sh, using bsub -J "job_Array[1-10]" -i "filter_in.%I" -o "filter_out.%I" -e "filter_out.%I" < filter-submit-array.bsub
+
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   2.25 sec.
+    Max Memory :                                 -
+    Average Memory :                             -
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                52
+    Run time :                                   25 sec.
+    Turnaround time :                            0 sec.
+
+The output (if any) is above this job summary.
+

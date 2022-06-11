@@ -1,0 +1,53 @@
+
+[]
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node112.engr.wustl.edu>
+Subject: Job 1612091: <findpairs> in cluster <SEAS-COMPUTE> Done
+
+Job <findpairs> was submitted from host <bowmore.seas.wustl.edu> by user <borowsky.jonathan> in cluster <SEAS-COMPUTE> at Mon Mar  7 09:15:00 2022
+Job was executed on host(s) <node112.engr.wustl.edu>, in queue <bowman>, as user <borowsky.jonathan> in cluster <SEAS-COMPUTE> at Mon Mar  7 09:15:00 2022
+</home/research/borowsky.jonathan> was used as the home directory.
+</project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/cryptic-pocket-filtering-2/automatic_filter_1> was used as the working directory.
+Started at Mon Mar  7 09:15:00 2022
+Terminated at Mon Mar  7 09:15:16 2022
+Results reported at Mon Mar  7 09:15:16 2022
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/sh
+#BSUB -q bowman
+#BSUB -W 120:00
+#BSUB -R "span[ptile=1]"
+#BSUB -J findpairs
+#BSUB -o pairing-index-8056-%J.log
+#BSUB -e pairing-index-8056-%J.log
+
+#this script is submitted manually
+
+source /project/bowmore/borowsky.jonathan/anaconda3/bin/activate
+conda activate snakes
+
+python /project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/cryptic-pocket-filtering-2/automatic_filter_1/filter_blast2pairs.py 8056 2500
+
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   14.20 sec.
+    Max Memory :                                 -
+    Average Memory :                             -
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                132
+    Run time :                                   14 sec.
+    Turnaround time :                            16 sec.
+
+The output (if any) is above this job summary.
+

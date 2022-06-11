@@ -1,0 +1,106 @@
+------------------------------------------------------------------------------------------------------------
+8246
+holo: 4yk0
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+MONOMERIC
+regular chains: ['C']
+MONOMERIC
+regular chains: ['D']
+checking gaps in holo chain A
+checking gaps in holo chain B
+checking gaps in holo chain C
+checking gaps in holo chain D
+------------------------------------------------------
+apo: 1jsp
+nonstandard REMARK 2: REMARK   2 RESOLUTION. NOT APPLICABLE.                                          
+
+------------------------------------------------------
+apo: 2d82
+nonstandard REMARK 2: REMARK   2 RESOLUTION. NOT APPLICABLE.                                          
+
+------------------------------------------------------
+apo: 2l84
+nonstandard REMARK 2: REMARK   2 RESOLUTION. NOT APPLICABLE.                                          
+
+------------------------------------------------------
+apo: 2l85
+nonstandard REMARK 2: REMARK   2 RESOLUTION. NOT APPLICABLE.                                          
+
+------------------------------------------------------
+apo: 2rny
+nonstandard REMARK 2: REMARK   2 RESOLUTION. NOT APPLICABLE.                                          
+
+------------------------------------------------------
+apo: 3dwy
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+aaaa
+098
+Traceback (most recent call last):
+  File "/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/cryptic-pocket-filtering-2/automatic_filter_1/filter_blast2pairs.py", line 891, in <module>
+    compare_chains(holo_chains, apo_chains[0], holo_id, apo_id, "")
+  File "/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/cryptic-pocket-filtering-2/automatic_filter_1/filter_blast2pairs.py", line 780, in compare_chains
+    ligands_iis = checkligs(holo, holo_sid, h_chain, apo, apo_sid, a_chain, {})
+  File "/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/cryptic-pocket-filtering-2/automatic_filter_1/filter_blast2pairs.py", line 440, in checkligs
+    holo_coords = holo_xtal.xyz[0][holo_xtal.top.select(f"{ligand_select_str} and not element H")] #add ligand coordinates; [0] is frame of mdtraj trajectory;
+IndexError: arrays used as indices must be of integer (or boolean) type
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node111.engr.wustl.edu>
+Subject: Job 1612118: <findpairs> in cluster <SEAS-COMPUTE> Exited
+
+Job <findpairs> was submitted from host <bowmore.seas.wustl.edu> by user <borowsky.jonathan> in cluster <SEAS-COMPUTE> at Mon Mar  7 10:19:39 2022
+Job was executed on host(s) <node111.engr.wustl.edu>, in queue <bowman>, as user <borowsky.jonathan> in cluster <SEAS-COMPUTE> at Mon Mar  7 10:19:40 2022
+</home/research/borowsky.jonathan> was used as the home directory.
+</project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/cryptic-pocket-filtering-2/automatic_filter_1> was used as the working directory.
+Started at Mon Mar  7 10:19:40 2022
+Terminated at Mon Mar  7 10:19:54 2022
+Results reported at Mon Mar  7 10:19:54 2022
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/sh
+#BSUB -q bowman
+#BSUB -W 120:00
+#BSUB -R "span[ptile=1]"
+#BSUB -J findpairs
+#BSUB -o pairing-index-8246-%J.log
+#BSUB -e pairing-index-8246-%J.log
+
+#this script is submitted manually
+
+source /project/bowmore/borowsky.jonathan/anaconda3/bin/activate
+conda activate snakes
+
+python /project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/cryptic-pocket-filtering-2/automatic_filter_1/filter_blast2pairs.py 8246 10000
+
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   17.00 sec.
+    Max Memory :                                 -
+    Average Memory :                             -
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                132
+    Run time :                                   14 sec.
+    Turnaround time :                            15 sec.
+
+The output (if any) is above this job summary.
+

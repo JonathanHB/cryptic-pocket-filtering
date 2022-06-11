@@ -1,0 +1,55 @@
+Traceback (most recent call last):
+  File "/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/cryptic-pocket-filtering-2/automatic_filter_1/filter_blast2pairs.py", line 749, in <module>
+    existing_xids_moad = [i[0:4] for i in os.listdir(f"{blast_directory}/moad_xml/")] #get a list of already-downloaded ligand lists to avoid downloading extra copies
+FileNotFoundError: [Errno 2] No such file or directory: '/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets/iofiles_na/moad_xml/'
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node112.engr.wustl.edu>
+Subject: Job 1608513: <findpairs> in cluster <SEAS-COMPUTE> Exited
+
+Job <findpairs> was submitted from host <node19.engr.wustl.edu> by user <borowsky.jonathan> in cluster <SEAS-COMPUTE> at Thu Mar  3 11:33:07 2022
+Job was executed on host(s) <node112.engr.wustl.edu>, in queue <bowman>, as user <borowsky.jonathan> in cluster <SEAS-COMPUTE> at Thu Mar  3 11:33:09 2022
+</home/research/borowsky.jonathan> was used as the home directory.
+</project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/cryptic-pocket-filtering-2/automatic_filter_1> was used as the working directory.
+Started at Thu Mar  3 11:33:09 2022
+Terminated at Thu Mar  3 11:33:23 2022
+Results reported at Thu Mar  3 11:33:23 2022
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/sh
+#BSUB -q bowman
+#BSUB -W 120:00
+#BSUB -R "span[ptile=1]"
+#BSUB -J findpairs
+#BSUB -o pairing-10000-%J.log
+#BSUB -e pairing-10000-%J.log
+
+#this script is submitted by auto_filter_noarray.sh, which replaces 10000 and 12500 with the appropriate indices
+
+source /project/bowmore/borowsky.jonathan/anaconda3/bin/activate
+conda activate snakes
+
+python /project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/cryptic-pocket-filtering-2/automatic_filter_1/filter_blast2pairs.py 10000 12500
+
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   3.76 sec.
+    Max Memory :                                 -
+    Average Memory :                             -
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                79
+    Run time :                                   15 sec.
+    Turnaround time :                            16 sec.
+
+The output (if any) is above this job summary.
+

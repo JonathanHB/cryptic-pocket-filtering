@@ -1,0 +1,6197 @@
+mkdir: cannot create directory ‘/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/iofiles/moad_xml’: File exists
+mkdir: cannot create directory ‘/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/iofiles/rcsb_pdb_holo’: File exists
+mkdir: cannot create directory ‘/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/iofiles/rcsb_pdb_apo’: File exists
+mkdir: cannot create directory ‘/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/iofiles/monomer_apo’: File exists
+mkdir: cannot create directory ‘/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/iofiles/monomer_holo’: File exists
+mkdir: cannot create directory ‘/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/iofiles/pairing_index’: File exists
+mkdir: cannot create directory ‘/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/iofiles/warning_files’: File exists
+mkdir: cannot create directory ‘/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/iofiles/note_files’: File exists
+mkdir: cannot create directory ‘/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/iofiles/qc_structures’: File exists
+------------------------------------------------------------------------------------------------------------
+22500
+holo: 6uvj
+MONOMERIC
+regular chains: ['A']
+checking gaps in holo chain A
+------------------------------------------------------
+apo: 2oss
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+EDO too close to QJ1; 0.09152041833507228 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3svf
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+WDR too close to QJ1; 0.05753169327850845 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3svg
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+ODR too close to QJ1; 0.04245581364429528 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3uvw
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 3uvx
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 3uvy
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 3uw9
+skipping TRIMERIC assembly
+skipping TRIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 4cl9
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+IES too close to QJ1; 0.03297037179822968 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4clb
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+83T too close to QJ1; 0.03528989890157216 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4gpj
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+0Q1 too close to QJ1; 0.053605388617060365 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4ior
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EDO too close to QJ1; 0.06895401703814051 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4lyi
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+EDO too close to QJ1; 0.07340444453660089 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4lys
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+2SJ too close to QJ1; 0.02326341660117529 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4nqm
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+Y1Z too close to QJ1; 0.04663507652897052 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4nr8
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+2LL too close to QJ1; 0.038201723170167734 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4whw
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+3OT too close to QJ1; 0.020868901130546878 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5bt4
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+MONOMERIC
+regular chains: ['C']
+apo_chain A
+holo_chain A
+False
+False
+2LO too close to QJ1; 0.0442558357148637 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+pair found; rmsd 0.04826653003692627
+apo_chain C
+holo_chain A
+False
+False
+pair found; rmsd 0.06124882027506828
+------------------------------------------------------
+apo: 5e0r
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+5J5 too close to QJ1; 0.058014772240454336 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5fbx
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+5W4 too close to QJ1; 0.041015422589638396 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5hq5
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+64Q too close to QJ1; 0.023241003126902363 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5hq6
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+64R too close to QJ1; 0.06683984172684876 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5hq7
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+64S too close to QJ1; 0.0647710154532266 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5m39
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+7EA too close to QJ1; 0.034360639412342346 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+7EA too close to QJ1; 0.04464272143981018 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5m3a
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+7E7 too close to QJ1; 0.0377371171941428 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5n2m
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+8J2 too close to QJ1; 0.04798479770875069 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5nnc
+skipping DIMERIC assembly
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 5nnd
+skipping DIMERIC assembly
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 5nne
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 5nng
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 5o97
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+9OE too close to QJ1; 0.04439514523275768 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5ovb
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+AY2 too close to QJ1; 0.02840289942888144 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+True
+True
+AY2 too close to QJ1; 0.016006819173607294 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5owm
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+B0N too close to QJ1; 0.03415914280679762 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5oww
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+MONOMERIC
+regular chains: ['C']
+MONOMERIC
+regular chains: ['D']
+apo_chain A
+holo_chain A
+True
+True
+B0Q too close to QJ1; 0.01869114392167848 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+True
+True
+B0Q too close to QJ1; 0.002841576309287426 nm
+no true apo structure found
+apo_chain C
+holo_chain A
+True
+True
+B0Q too close to QJ1; 0.011363447842743653 nm
+no true apo structure found
+apo_chain D
+holo_chain A
+True
+True
+B0Q too close to QJ1; 0.021810446316518697 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5u28
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 5uvw
+MONOMERIC
+regular chains: ['C']
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain C
+holo_chain A
+False
+False
+8NG too close to QJ1; 0.017629467469928904 nm
+no true apo structure found
+apo_chain A
+holo_chain A
+False
+False
+8NG too close to QJ1; 0.014818235694517852 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+8NG too close to QJ1; 0.017018551090655785 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5v67
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+IBI too close to QJ1; 0.02919098308251164 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5vbo
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+4K4 too close to QJ1; 0.024345694456841725 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5vbp
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+True
+True
+79C too close to QJ1; 0.011570704603293297 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+True
+True
+79C too close to QJ1; 0.032969646477114825 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5wma
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+6JC too close to QJ1; 0.039488182508987696 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5xhy
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+8FC too close to QJ1; 0.0407467380100626 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5xi2
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+8F9 too close to QJ1; 0.062473717279157764 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5xi3
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+8F6 too close to QJ1; 0.047326433546986846 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5xi4
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+8F0 too close to QJ1; 0.0509628797527187 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5you
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+8XX too close to QJ1; 0.041213854872374917 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5yov
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+8XR too close to QJ1; 0.04169684460373885 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5z8g
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+99L too close to QJ1; 0.04322248765466796 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5z8r
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+99O too close to QJ1; 0.03259734389882734 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5z8z
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+99R too close to QJ1; 0.042642988917533195 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5z90
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+99U too close to QJ1; 0.033273757988009495 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5z9c
+nonstandard REMARK 2: REMARK   2 RESOLUTION. NOT APPLICABLE.                                          
+
+------------------------------------------------------
+apo: 5z9k
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+99X too close to QJ1; 0.039505867901964635 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6bn7
+inadequate resolution of 3.5 A
+------------------------------------------------------
+apo: 6bn9
+inadequate resolution of 4.38 A
+------------------------------------------------------
+apo: 6boy
+inadequate resolution of 3.33 A
+------------------------------------------------------
+apo: 6czu
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+FP7 too close to QJ1; 0.027908527481608273 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6fsy
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+E5Q too close to QJ1; 0.0491904259126174 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6ft3
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+E5T too close to QJ1; 0.03833539400328687 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6ft4
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+E5W too close to QJ1; 0.048965565057237925 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6g0d
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+LY2 too close to QJ1; 0.04775518053470741 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6g0e
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EGN too close to QJ1; 0.029669352056557362 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6g0f
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+EGH too close to QJ1; 0.01602175106325825 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6g0g
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+DMS too close to QJ1; 0.048164502016994924 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6g0h
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+DMS too close to QJ1; 0.03464555092672995 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6g0o
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 6g0p
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 6g0q
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 6g0r
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 6g0s
+skipping TRIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 6i7x
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+H7B too close to QJ1; 0.05060687112235476 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6i7y
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+H7E too close to QJ1; 0.05236216232044964 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6ji3
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+BW6 too close to QJ1; 0.04579892792544658 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6ji4
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+BOF too close to QJ1; 0.054691199526898895 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6ji5
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+BQ0 too close to QJ1; 0.05940383430313295 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6jj3
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+BS6 too close to QJ1; 0.05391878830346773 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6jj5
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+C6X too close to QJ1; 0.05432046745284941 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6jj6
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+C89 too close to QJ1; 0.04413778032076739 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6jjb
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+BT0 too close to QJ1; 0.06197510359213667 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6kec
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+D9C too close to QJ1; 0.04339889027559925 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6ked
+inadequate resolution of 2.55 A
+------------------------------------------------------
+apo: 6kee
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+D7U too close to QJ1; 0.03525888617905942 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6kef
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+D7X too close to QJ1; 0.03827830016005577 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6keg
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+D89 too close to QJ1; 0.027983048670627952 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6keh
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+D6R too close to QJ1; 0.04987223836039564 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6kei
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+D6U too close to QJ1; 0.046276933686610844 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6kej
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+D7F too close to QJ1; 0.05129780923209636 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6kek
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+D7L too close to QJ1; 0.04596217129752221 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lg4
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EC0 too close to QJ1; 0.020826677557015148 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lg5
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EC3 too close to QJ1; 0.032661380405905514 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lg6
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EC9 too close to QJ1; 0.031429670639668 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lg7
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+ECF too close to QJ1; 0.024808471124402456 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lg8
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+ECR too close to QJ1; 0.02152199443395803 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lg9
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+ECU too close to QJ1; 0.0301439191470719 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lih
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EDF too close to QJ1; 0.06031017782612728 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lim
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EE9 too close to QJ1; 0.03302637291584368 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6p05
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+False
+numbering mismatch in pdb files at residue 42; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 6rwj
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+KLK too close to QJ1; 0.04256288698001608 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6s25
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+EDO too close to QJ1; 0.46736097642882485 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6s4b
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+BU3 too close to QJ1; 0.07443406678830253 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6s6k
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+KXK too close to QJ1; 0.041749384852575226 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6sa2
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+BU3 too close to QJ1; 0.06276748745233209 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6sa3
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+L2N too close to QJ1; 0.01690885369647294 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6sah
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+L2W too close to QJ1; 0.016789778810981013 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6saj
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+BU3 too close to QJ1; 0.04180242171439975 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6sb8
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+L45 too close to QJ1; 0.019211113785933334 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6se4
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EDO too close to QJ1; 0.4219859782492167 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6swn
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6swq
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6tpx
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6tpy
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6tpz
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6u0d
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+DMS too close to QJ1; 0.03671985600469349 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6uwu
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+QKP too close to QJ1; 0.06189954916321657 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6v0u
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+BMF too close to QJ1; 0.03573696323216719 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6v1k
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+5SW too close to QJ1; 0.038047372583410545 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6v1l
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+5U6 too close to QJ1; 0.04133660137035499 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6v1u
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+QMG too close to QJ1; 0.020988808244472582 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6viw
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+MONOMERIC
+regular chains: ['C']
+apo_chain A
+holo_chain A
+False
+False
+QYV too close to QJ1; 0.022389901777588355 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+QYV too close to QJ1; 0.019893869280305468 nm
+no true apo structure found
+apo_chain C
+holo_chain A
+False
+False
+QYV too close to QJ1; 0.023030976057841403 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6viz
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+MONOMERIC
+regular chains: ['C']
+apo_chain A
+holo_chain A
+False
+False
+QYY too close to QJ1; 0.037936951960167234 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+QYY too close to QJ1; 0.04543734167323907 nm
+no true apo structure found
+apo_chain C
+holo_chain A
+False
+False
+QYY too close to QJ1; 0.04327887433572663 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6vub
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 6vuc
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 6vuf
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 6vuj
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 6wgx
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+U0D too close to QJ1; 0.033912872278333825 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+True
+True
+U0D too close to QJ1; 0.03513394963530183 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6ww8
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 6x7b
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 6x7c
+inadequate resolution of 2.7 A
+------------------------------------------------------
+apo: 6x7d
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+UT4 too close to QJ1; 0.043084101799489925 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+UT4 too close to QJ1; 0.05506792427190687 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6xuz
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+O1W too close to QJ1; 0.06317015205826576 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6xv3
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+MONOMERIC
+regular chains: ['C']
+MONOMERIC
+regular chains: ['D']
+apo_chain A
+holo_chain A
+True
+True
+O2B too close to QJ1; 0.0369212782497213 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+True
+True
+O2B too close to QJ1; 0.039939837624879654 nm
+no true apo structure found
+apo_chain C
+holo_chain A
+True
+True
+O2B too close to QJ1; 0.04850285422117515 nm
+no true apo structure found
+apo_chain D
+holo_chain A
+True
+True
+O2B too close to QJ1; 0.048655274482110836 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6xv7
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+O2Q too close to QJ1; 0.025065600433719276 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6xvc
+MONOMERIC
+regular chains: ['B']
+apo_chain B
+holo_chain A
+False
+False
+O32 too close to QJ1; 0.03570255806954605 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6yin
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+OS8 too close to QJ1; 0.06163560268184028 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6yqn
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+P8T too close to QJ1; 0.050903144886365076 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6yqo
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+P8Q too close to QJ1; 0.05291183828123505 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6yqp
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+P8N too close to QJ1; 0.056324419989326975 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6yqz
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+P8W too close to QJ1; 0.04098158668331749 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6z7g
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6z7l
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6z7m
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6zb3
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6zed
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6zel
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6zf9
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 7a9u
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 7ajn
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+RGW too close to QJ1; 0.05700212163345633 nm
+no true apo structure found
+------------------------------------------------------
+apo: 7c2z
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 42; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 7jkx
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+False
+numbering mismatch in pdb files at residue 42; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 7mlq
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+ZHV too close to QJ1; 0.04764596534045854 nm
+no true apo structure found
+------------------------------------------------------
+apo: 7mlr
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+ZHS too close to QJ1; 0.03891254675740906 nm
+no true apo structure found
+------------------------------------------------------
+apo: 7mls
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+ZHM too close to QJ1; 0.03504306266370631 nm
+no true apo structure found
+------------------------------------------------------
+apo: 7rek
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+R6S too close to QJ1; 0.05116922052628126 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+R6S too close to QJ1; 0.06525195283376639 nm
+no true apo structure found
+------------------------------------------------------
+apo: 7rel
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+4OW too close to QJ1; 0.037480438313318355 nm
+no true apo structure found
+------------------------------------------------------
+apo: 7rem
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+4OF too close to QJ1; 0.030439394016900073 nm
+no true apo structure found
+------------------------------------------------------------------------------------------------------------
+22501
+holo: 6uvm
+MONOMERIC
+regular chains: ['A']
+checking gaps in holo chain A
+------------------------------------------------------
+apo: 2oss
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+EDO too close to QJA; 0.07692270114811772 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3svf
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+WDR too close to QJA; 0.05708652997338128 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3svg
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+ODR too close to QJA; 0.05164250719363754 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3uvw
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 3uvx
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 3uvy
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 3uw9
+skipping TRIMERIC assembly
+skipping TRIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 4cl9
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+IES too close to QJA; 0.017838747136958776 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4clb
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+83T too close to QJA; 0.028520361559751774 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4gpj
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+0Q1 too close to QJA; 0.04629669162305412 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4ior
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EDO too close to QJA; 0.06214106295961094 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4lyi
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+EDO too close to QJA; 0.058459866094962676 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4lys
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+2SJ too close to QJA; 0.04412211597397929 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4nqm
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+Y1Z too close to QJA; 0.047726766923261145 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4nr8
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+2LL too close to QJA; 0.03629245711093686 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4whw
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+3OT too close to QJA; 0.03861439830006999 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5bt4
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+MONOMERIC
+regular chains: ['C']
+apo_chain A
+holo_chain A
+False
+False
+2LO too close to QJA; 0.022192449619621118 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+pair found; rmsd 0.04554199427366257
+apo_chain C
+holo_chain A
+False
+False
+pair found; rmsd 0.058876462280750275
+------------------------------------------------------
+apo: 5e0r
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+5J5 too close to QJA; 0.0524172516308203 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5fbx
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+5W4 too close to QJA; 0.06752964304836775 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5hq5
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+64Q too close to QJA; 0.03069194011438152 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5hq6
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+64R too close to QJA; 0.05052830204347192 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5hq7
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+64S too close to QJA; 0.05722798381510138 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5m39
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+7EA too close to QJA; 0.04964648280668937 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+7EA too close to QJA; 0.058125862499555356 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5m3a
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+7E7 too close to QJA; 0.03185568449890181 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5n2m
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+8J2 too close to QJA; 0.03422291945655043 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5nnc
+skipping DIMERIC assembly
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 5nnd
+skipping DIMERIC assembly
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 5nne
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 5nng
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 5o97
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+9OE too close to QJA; 0.050321741565312474 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5ovb
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+AY2 too close to QJA; 0.04987132315691335 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+True
+True
+AY2 too close to QJA; 0.03636208845391127 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5owm
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+B0N too close to QJA; 0.028761221986684415 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5oww
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+MONOMERIC
+regular chains: ['C']
+MONOMERIC
+regular chains: ['D']
+apo_chain A
+holo_chain A
+True
+True
+B0Q too close to QJA; 0.03117692252192469 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+True
+True
+B0Q too close to QJA; 0.016758688035204083 nm
+no true apo structure found
+apo_chain C
+holo_chain A
+True
+True
+B0Q too close to QJA; 0.017636485326518132 nm
+no true apo structure found
+apo_chain D
+holo_chain A
+True
+True
+B0Q too close to QJA; 0.02929711360778066 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5u28
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 5uvw
+MONOMERIC
+regular chains: ['C']
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain C
+holo_chain A
+False
+False
+8NG too close to QJA; 0.03610276481333122 nm
+no true apo structure found
+apo_chain A
+holo_chain A
+False
+False
+8NG too close to QJA; 0.03539716201073604 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+8NG too close to QJA; 0.025609170433355945 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5v67
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+IBI too close to QJA; 0.02917810902138427 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5vbo
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+4K4 too close to QJA; 0.022776016335554313 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5vbp
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+True
+True
+79C too close to QJA; 0.01653130028300739 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+True
+True
+79C too close to QJA; 0.03733659158603223 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5wma
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+6JC too close to QJA; 0.05586567835055079 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5xhy
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+8FC too close to QJA; 0.014321752687052281 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5xi2
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+8F9 too close to QJA; 0.03286640454436792 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5xi3
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+8F6 too close to QJA; 0.031622829586631686 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5xi4
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+8F0 too close to QJA; 0.028331246590365806 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5you
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+8XX too close to QJA; 0.02021534482188398 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5yov
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+8XR too close to QJA; 0.025089178662030618 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5z8g
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+99L too close to QJA; 0.04609529537186538 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5z8r
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+99O too close to QJA; 0.06185864658455813 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5z8z
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+99R too close to QJA; 0.06370300816075136 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5z90
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+99U too close to QJA; 0.04203253280539997 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5z9c
+nonstandard REMARK 2: REMARK   2 RESOLUTION. NOT APPLICABLE.                                          
+
+------------------------------------------------------
+apo: 5z9k
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+99X too close to QJA; 0.06922103678697637 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6bn7
+inadequate resolution of 3.5 A
+------------------------------------------------------
+apo: 6bn9
+inadequate resolution of 4.38 A
+------------------------------------------------------
+apo: 6boy
+inadequate resolution of 3.33 A
+------------------------------------------------------
+apo: 6czu
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+FP7 too close to QJA; 0.02961015739358181 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6fsy
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+E5Q too close to QJA; 0.045818643054915606 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6ft3
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+E5T too close to QJA; 0.026411054626207672 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6ft4
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+E5W too close to QJA; 0.048142400421293946 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6g0d
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+LY2 too close to QJA; 0.054599839400230894 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6g0e
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EGN too close to QJA; 0.0589376605521438 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6g0f
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+EGH too close to QJA; 0.04116680957754746 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6g0g
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+DMS too close to QJA; 0.04800736874501271 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6g0h
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+DMS too close to QJA; 0.05281185885394426 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6g0o
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 6g0p
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 6g0q
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 6g0r
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 6g0s
+skipping TRIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 6i7x
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+H7B too close to QJA; 0.04629694327584595 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6i7y
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+H7E too close to QJA; 0.04450072285078129 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6ji3
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+BW6 too close to QJA; 0.02449327692939118 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6ji4
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+BOF too close to QJA; 0.0485798018548332 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6ji5
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+BQ0 too close to QJA; 0.05602289422163997 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6jj3
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+BS6 too close to QJA; 0.03922504733085373 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6jj5
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+C6X too close to QJA; 0.027919449223086847 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6jj6
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+C89 too close to QJA; 0.03487127168689607 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6jjb
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+BT0 too close to QJA; 0.04672871254236033 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6kec
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+D9C too close to QJA; 0.032074429917787105 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6ked
+inadequate resolution of 2.55 A
+------------------------------------------------------
+apo: 6kee
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+D7U too close to QJA; 0.05029881166858916 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6kef
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+D7X too close to QJA; 0.03860574540378138 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6keg
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+D89 too close to QJA; 0.02225550329392403 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6keh
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+D6R too close to QJA; 0.033894829015715014 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6kei
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+D6U too close to QJA; 0.029254216340086115 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6kej
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+D7F too close to QJA; 0.043656289818091894 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6kek
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+D7L too close to QJA; 0.023950246959467698 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lg4
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EC0 too close to QJA; 0.024605621767094788 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lg5
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EC3 too close to QJA; 0.01930191159805927 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lg6
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EC9 too close to QJA; 0.04803222563403889 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lg7
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+ECF too close to QJA; 0.039602486488815765 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lg8
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+ECR too close to QJA; 0.03741917695936818 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lg9
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+ECU too close to QJA; 0.037567564143868484 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lih
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EDF too close to QJA; 0.02969310678357873 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lim
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EE9 too close to QJA; 0.030718067831275175 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6p05
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+False
+numbering mismatch in pdb files at residue 42; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 6rwj
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+KLK too close to QJA; 0.05469900209035654 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6s25
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+EDO too close to QJA; 0.4813257348866905 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6s4b
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+BU3 too close to QJA; 0.05164557781170272 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6s6k
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+KXK too close to QJA; 0.020653875085532285 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6sa2
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+BU3 too close to QJA; 0.06758898609649847 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6sa3
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+L2N too close to QJA; 0.030103236449416673 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6sah
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+L2W too close to QJA; 0.044076149270271585 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6saj
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+BU3 too close to QJA; 0.051843277344552414 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6sb8
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+L45 too close to QJA; 0.03845880272862931 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6se4
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EDO too close to QJA; 0.46308066980585594 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6swn
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6swq
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6tpx
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6tpy
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6tpz
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6u0d
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+DMS too close to QJA; 0.028488472661835806 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6uwu
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+QKP too close to QJA; 0.029515513576250492 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6v0u
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+BMF too close to QJA; 0.05538531801534717 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6v1k
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+5SW too close to QJA; 0.04996123032946908 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6v1l
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+5U6 too close to QJA; 0.038343255272586245 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6v1u
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+QMG too close to QJA; 0.014774182720168321 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6viw
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+MONOMERIC
+regular chains: ['C']
+apo_chain A
+holo_chain A
+False
+False
+QYV too close to QJA; 0.029071804767047318 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+QYV too close to QJA; 0.02518642911752279 nm
+no true apo structure found
+apo_chain C
+holo_chain A
+False
+False
+QYV too close to QJA; 0.033776078364973046 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6viz
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+MONOMERIC
+regular chains: ['C']
+apo_chain A
+holo_chain A
+False
+False
+QYY too close to QJA; 0.035074395478603 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+QYY too close to QJA; 0.032690265209250245 nm
+no true apo structure found
+apo_chain C
+holo_chain A
+False
+False
+QYY too close to QJA; 0.02980378410871972 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6vub
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 6vuc
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 6vuf
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 6vuj
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 6wgx
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+U0D too close to QJA; 0.04778106370410914 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+True
+True
+U0D too close to QJA; 0.03665739389944067 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6ww8
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 6x7b
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 6x7c
+inadequate resolution of 2.7 A
+------------------------------------------------------
+apo: 6x7d
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+UT4 too close to QJA; 0.05024607196649675 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+UT4 too close to QJA; 0.028862183014310934 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6xuz
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+O1W too close to QJA; 0.036781432560218874 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6xv3
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+MONOMERIC
+regular chains: ['C']
+MONOMERIC
+regular chains: ['D']
+apo_chain A
+holo_chain A
+True
+True
+O2B too close to QJA; 0.04658177421829967 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+True
+True
+O2B too close to QJA; 0.05552502086636514 nm
+no true apo structure found
+apo_chain C
+holo_chain A
+True
+True
+O2B too close to QJA; 0.04774049134167733 nm
+no true apo structure found
+apo_chain D
+holo_chain A
+True
+True
+O2B too close to QJA; 0.05210779073580862 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6xv7
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+O2Q too close to QJA; 0.02796941166444239 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6xvc
+MONOMERIC
+regular chains: ['B']
+apo_chain B
+holo_chain A
+False
+False
+O32 too close to QJA; 0.04316837256187425 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6yin
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+OS8 too close to QJA; 0.024518448689854717 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6yqn
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+P8T too close to QJA; 0.049937830014327195 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6yqo
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+P8Q too close to QJA; 0.04877937218780079 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6yqp
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+P8N too close to QJA; 0.03304484153382608 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6yqz
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+P8W too close to QJA; 0.02199896941566187 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6z7g
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6z7l
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6z7m
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6zb3
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6zed
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6zel
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6zf9
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 7a9u
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 7ajn
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+RGW too close to QJA; 0.05189254284903792 nm
+no true apo structure found
+------------------------------------------------------
+apo: 7c2z
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 42; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 7jkx
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+False
+numbering mismatch in pdb files at residue 42; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 7mlq
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+ZHV too close to QJA; 0.04873529503504285 nm
+no true apo structure found
+------------------------------------------------------
+apo: 7mlr
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+ZHS too close to QJA; 0.05717131899659104 nm
+no true apo structure found
+------------------------------------------------------
+apo: 7mls
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+ZHM too close to QJA; 0.04677256445239332 nm
+no true apo structure found
+------------------------------------------------------
+apo: 7rek
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+R6S too close to QJA; 0.0666712150124121 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+R6S too close to QJA; 0.0654855242234246 nm
+no true apo structure found
+------------------------------------------------------
+apo: 7rel
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+4OW too close to QJA; 0.029273718454952528 nm
+no true apo structure found
+------------------------------------------------------
+apo: 7rem
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+4OF too close to QJA; 0.0359252449701942 nm
+no true apo structure found
+------------------------------------------------------------------------------------------------------------
+22502
+holo: 6uwx
+MONOMERIC
+regular chains: ['A']
+checking gaps in holo chain A
+------------------------------------------------------
+apo: 2oss
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+EDO too close to QKD; 0.08475977512861559 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3svf
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+WDR too close to QKD; 0.04262492890115385 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3svg
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+ODR too close to QKD; 0.02583078884821967 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3uvw
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 3uvx
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 3uvy
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 3uw9
+skipping TRIMERIC assembly
+skipping TRIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 4cl9
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+IES too close to QKD; 0.03028347926444225 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4clb
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+83T too close to QKD; 0.04363112441719661 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4gpj
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+0Q1 too close to QKD; 0.03546809555398144 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4ior
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EDO too close to QKD; 0.07081730732878573 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4lyi
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+EDO too close to QKD; 0.06941829420085015 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4lys
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+2SJ too close to QKD; 0.058917284871917025 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4nqm
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+Y1Z too close to QKD; 0.060669201961860784 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4nr8
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+2LL too close to QKD; 0.05067589620513787 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4whw
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+3OT too close to QKD; 0.027138195987310626 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5bt4
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+MONOMERIC
+regular chains: ['C']
+apo_chain A
+holo_chain A
+False
+False
+2LO too close to QKD; 0.04493174418036351 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+pair found; rmsd 0.048901598900556564
+apo_chain C
+holo_chain A
+False
+False
+pair found; rmsd 0.06224997341632843
+------------------------------------------------------
+apo: 5e0r
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+5J5 too close to QKD; 0.0591678156290281 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5fbx
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+5W4 too close to QKD; 0.03761406432985581 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5hq5
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+64Q too close to QKD; 0.05263639256194551 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5hq6
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+64R too close to QKD; 0.06000623271815666 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5hq7
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+64S too close to QKD; 0.038459272933872884 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5m39
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+7EA too close to QKD; 0.04740236294067123 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+7EA too close to QKD; 0.04895680934723475 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5m3a
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+7E7 too close to QKD; 0.02699353168627455 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5n2m
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+8J2 too close to QKD; 0.04682481805872808 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5nnc
+skipping DIMERIC assembly
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 5nnd
+skipping DIMERIC assembly
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 5nne
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 5nng
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 5o97
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+9OE too close to QKD; 0.04691348601211942 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5ovb
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+AY2 too close to QKD; 0.04200897573025265 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+True
+True
+AY2 too close to QKD; 0.03283185841746431 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5owm
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+B0N too close to QKD; 0.042034875941733156 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5oww
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+MONOMERIC
+regular chains: ['C']
+MONOMERIC
+regular chains: ['D']
+apo_chain A
+holo_chain A
+True
+True
+B0Q too close to QKD; 0.06193039675368242 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+True
+True
+B0Q too close to QKD; 0.05414605109109164 nm
+no true apo structure found
+apo_chain C
+holo_chain A
+True
+True
+B0Q too close to QKD; 0.049111324629319296 nm
+no true apo structure found
+apo_chain D
+holo_chain A
+True
+True
+B0Q too close to QKD; 0.05507104653649628 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5u28
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 5uvw
+MONOMERIC
+regular chains: ['C']
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain C
+holo_chain A
+False
+False
+8NG too close to QKD; 0.03160759033058101 nm
+no true apo structure found
+apo_chain A
+holo_chain A
+False
+False
+8NG too close to QKD; 0.03052057743620467 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+8NG too close to QKD; 0.03620108760908606 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5v67
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+IBI too close to QKD; 0.015191804127110863 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5vbo
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+4K4 too close to QKD; 0.03185870536650836 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5vbp
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+True
+True
+79C too close to QKD; 0.018610864296426728 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+True
+True
+79C too close to QKD; 0.03524039321305844 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5wma
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+6JC too close to QKD; 0.043447469868550644 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5xhy
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+8FC too close to QKD; 0.013630283291589596 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5xi2
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+8F9 too close to QKD; 0.017353662049959 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5xi3
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+8F6 too close to QKD; 0.027472013551662827 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5xi4
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+8F0 too close to QKD; 0.006427190754171382 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5you
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+8XX too close to QKD; 0.022554540565418196 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5yov
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+8XR too close to QKD; 0.031137306707157277 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5z8g
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+99L too close to QKD; 0.03456008810544594 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5z8r
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+99O too close to QKD; 0.033444144950784155 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5z8z
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+99R too close to QKD; 0.04301919372966332 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5z90
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+99U too close to QKD; 0.03984974549171693 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5z9c
+nonstandard REMARK 2: REMARK   2 RESOLUTION. NOT APPLICABLE.                                          
+
+------------------------------------------------------
+apo: 5z9k
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+99X too close to QKD; 0.03946220799545762 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6bn7
+inadequate resolution of 3.5 A
+------------------------------------------------------
+apo: 6bn9
+inadequate resolution of 4.38 A
+------------------------------------------------------
+apo: 6boy
+inadequate resolution of 3.33 A
+------------------------------------------------------
+apo: 6czu
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+FP7 too close to QKD; 0.06854027923392693 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6fsy
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+E5Q too close to QKD; 0.0316427561811513 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6ft3
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+E5T too close to QKD; 0.02268113444612351 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6ft4
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+E5W too close to QKD; 0.045879439440594305 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6g0d
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+LY2 too close to QKD; 0.0454690994898345 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6g0e
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EGN too close to QKD; 0.03865824149513261 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6g0f
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+EGH too close to QKD; 0.031334493986221845 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6g0g
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+DMS too close to QKD; 0.06824802392477036 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6g0h
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+DMS too close to QKD; 0.07462918324386962 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6g0o
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 6g0p
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 6g0q
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 6g0r
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 6g0s
+skipping TRIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 6i7x
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+H7B too close to QKD; 0.04017822019888675 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6i7y
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+H7E too close to QKD; 0.04248638446834054 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6ji3
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+BW6 too close to QKD; 0.021793068771156384 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6ji4
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+BOF too close to QKD; 0.0321949385290519 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6ji5
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+BQ0 too close to QKD; 0.038089447267882756 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6jj3
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+BS6 too close to QKD; 0.03254487240845136 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6jj5
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+C6X too close to QKD; 0.024054892487265316 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6jj6
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+C89 too close to QKD; 0.0390122740263784 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6jjb
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+BT0 too close to QKD; 0.03804486641234188 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6kec
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+D9C too close to QKD; 0.017319080704437526 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6ked
+inadequate resolution of 2.55 A
+------------------------------------------------------
+apo: 6kee
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+D7U too close to QKD; 0.038032365428740354 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6kef
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+D7X too close to QKD; 0.039078191116067064 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6keg
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+D89 too close to QKD; 0.036565459007983775 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6keh
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+D6R too close to QKD; 0.04121412717813917 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6kei
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+D6U too close to QKD; 0.03831516834634979 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6kej
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+D7F too close to QKD; 0.045297197203300964 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6kek
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+D7L too close to QKD; 0.039986057498845574 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lg4
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EC0 too close to QKD; 0.04596449049102098 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lg5
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EC3 too close to QKD; 0.042933718235365854 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lg6
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EC9 too close to QKD; 0.03200900561505478 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lg7
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+ECF too close to QKD; 0.04219107295714899 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lg8
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+ECR too close to QKD; 0.03655234480965515 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lg9
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+ECU too close to QKD; 0.035692835597261996 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lih
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EDF too close to QKD; 0.0254256343542325 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6lim
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EE9 too close to QKD; 0.025437444177927475 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6p05
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+False
+numbering mismatch in pdb files at residue 42; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 6rwj
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+KLK too close to QKD; 0.0334410529054381 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6s25
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+EDO too close to QKD; 0.4909918910779088 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6s4b
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+BU3 too close to QKD; 0.07483302757279474 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6s6k
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+KXK too close to QKD; 0.03205694299863106 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6sa2
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+BU3 too close to QKD; 0.05963005527012079 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6sa3
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+L2N too close to QKD; 0.048378332734155136 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6sah
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+L2W too close to QKD; 0.031948570874093904 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6saj
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+BU3 too close to QKD; 0.04981452912737526 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6sb8
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+L45 too close to QKD; 0.04551312381084706 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6se4
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+EDO too close to QKD; 0.3729303714320175 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6swn
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6swq
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6tpx
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6tpy
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6tpz
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6u0d
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+DMS too close to QKD; 0.04745630103891828 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6uwu
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+QKP too close to QKD; 0.02677833745545564 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6v0u
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+BMF too close to QKD; 0.051599758513608464 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6v1k
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+5SW too close to QKD; 0.04677263287985201 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6v1l
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+5U6 too close to QKD; 0.03728318859358388 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6v1u
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+QMG too close to QKD; 0.017894750263266552 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6viw
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+MONOMERIC
+regular chains: ['C']
+apo_chain A
+holo_chain A
+False
+False
+QYV too close to QKD; 0.03142347160186406 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+QYV too close to QKD; 0.0568166433684288 nm
+no true apo structure found
+apo_chain C
+holo_chain A
+False
+False
+QYV too close to QKD; 0.026626659972853378 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6viz
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+MONOMERIC
+regular chains: ['C']
+apo_chain A
+holo_chain A
+False
+False
+QYY too close to QKD; 0.04713561858460493 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+QYY too close to QKD; 0.04794097897914946 nm
+no true apo structure found
+apo_chain C
+holo_chain A
+False
+False
+QYY too close to QKD; 0.058234397273030696 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6vub
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 6vuc
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 6vuf
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 6vuj
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 6wgx
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+EDO too close to QKD; 0.4703809802522346 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+True
+True
+U0D too close to QKD; 0.05002406546635975 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6ww8
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 6x7b
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 43; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 6x7c
+inadequate resolution of 2.7 A
+------------------------------------------------------
+apo: 6x7d
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+UT4 too close to QKD; 0.05924871968047841 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+UT4 too close to QKD; 0.052517052538114305 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6xuz
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+O1W too close to QKD; 0.04288524346442659 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6xv3
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+MONOMERIC
+regular chains: ['C']
+MONOMERIC
+regular chains: ['D']
+apo_chain A
+holo_chain A
+True
+True
+O2B too close to QKD; 0.03883130406279659 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+True
+True
+O2B too close to QKD; 0.05072654953320451 nm
+no true apo structure found
+apo_chain C
+holo_chain A
+True
+True
+O2B too close to QKD; 0.049649111338983344 nm
+no true apo structure found
+apo_chain D
+holo_chain A
+True
+True
+O2B too close to QKD; 0.05018812325385038 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6xv7
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+O2Q too close to QKD; 0.03160955589930239 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6xvc
+MONOMERIC
+regular chains: ['B']
+apo_chain B
+holo_chain A
+False
+False
+O32 too close to QKD; 0.020349038457772223 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6yin
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+OS8 too close to QKD; 0.03644918955630469 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6yqn
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+P8T too close to QKD; 0.03358185165894567 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6yqo
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+P8Q too close to QKD; 0.028055203064871 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6yqp
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+P8N too close to QKD; 0.04348981043345058 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6yqz
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+P8W too close to QKD; 0.021577994325091065 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6z7g
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6z7l
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6z7m
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6zb3
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6zed
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6zel
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 6zf9
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 7a9u
+REMARK 2 (resolution) missing from file; skipping structure
+------------------------------------------------------
+apo: 7ajn
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+RGW too close to QKD; 0.030855966400948887 nm
+no true apo structure found
+------------------------------------------------------
+apo: 7c2z
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+numbering mismatch in pdb files at residue 42; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 7jkx
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+False
+numbering mismatch in pdb files at residue 42; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 7mlq
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+ZHV too close to QKD; 0.04150416455364759 nm
+no true apo structure found
+------------------------------------------------------
+apo: 7mlr
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+ZHS too close to QKD; 0.03511425667728246 nm
+no true apo structure found
+------------------------------------------------------
+apo: 7mls
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+ZHM too close to QKD; 0.015146558821250121 nm
+no true apo structure found
+------------------------------------------------------
+apo: 7rek
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+apo_chain A
+holo_chain A
+False
+False
+R6S too close to QKD; 0.04577706701615869 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+False
+False
+R6S too close to QKD; 0.06821647741379792 nm
+no true apo structure found
+------------------------------------------------------
+apo: 7rel
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+4OW too close to QKD; 0.02846193285178795 nm
+no true apo structure found
+------------------------------------------------------
+apo: 7rem
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+4OF too close to QKD; 0.03927671262698793 nm
+no true apo structure found
+------------------------------------------------------------------------------------------------------------
+22503
+holo: 721p
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------------------------------------------------------------
+22504
+holo: 7cpa
+MONOMERIC
+regular chains: ['A']
+checking gaps in holo chain A
+------------------------------------------------------
+apo: 1bav
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+MONOMERIC
+regular chains: ['C']
+MONOMERIC
+regular chains: ['D']
+apo_chain A
+holo_chain A
+True
+True
+BIP too close to FVF; 0.019193124713010486 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+True
+True
+BIP too close to FVF; 0.010726422984234192 nm
+no true apo structure found
+apo_chain C
+holo_chain A
+True
+True
+BIP too close to FVF; 0.01850662776983642 nm
+no true apo structure found
+apo_chain D
+holo_chain A
+True
+True
+BIP too close to FVF; 0.015091399025303145 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5cpa
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+pair found; rmsd 0.04854787141084671
+------------------------------------------------------------------------------------------------------------
+22505
+holo: 7cpp
+MONOMERIC
+regular chains: ['A']
+checking gaps in holo chain A
+------------------------------------------------------
+apo: 1cp4
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to NCM; 0.37675914885415623 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1gek
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+HEM too close to NCM; 0.35812403900301015 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1gem
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to NCM; 0.37944742854578617 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1p2y
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+HEM too close to NCM; 0.3820564649538811 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1p7r
+inadequate resolution of 2.85 A
+------------------------------------------------------
+apo: 1pha
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to NCM; 0.38050190734603256 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1phb
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to NCM; 0.3789793899910597 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1phc
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to NCM; 0.3745674174759342 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1phd
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to NCM; 0.3767949781340032 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1phf
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to NCM; 0.38562282534642445 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1phg
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to NCM; 0.3712084037253601 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1rf9
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+HEM too close to NCM; 0.37790524875193365 nm
+no true apo structure found
+------------------------------------------------------
+apo: 2fe6
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+MNR too close to NCM; 0.4023771703923347 nm
+no true apo structure found
+------------------------------------------------------
+apo: 2fer
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+MNR too close to NCM; 0.37760219137298223 nm
+no true apo structure found
+------------------------------------------------------
+apo: 2h7q
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to NCM; 0.36582096142456444 nm
+no true apo structure found
+------------------------------------------------------
+apo: 2l8m
+nonstandard REMARK 2: REMARK   2 RESOLUTION. NOT APPLICABLE.                                          
+
+------------------------------------------------------
+apo: 2lqd
+nonstandard REMARK 2: REMARK   2 RESOLUTION. NOT APPLICABLE.                                          
+
+------------------------------------------------------
+apo: 3wrh
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['E']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to NCM; 0.36833035042491347 nm
+no true apo structure found
+apo_chain E
+holo_chain A
+True
+True
+HEM too close to NCM; 0.35990076602616916 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3wri
+inadequate resolution of 2.9 A
+------------------------------------------------------
+apo: 3wrj
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['E']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to NCM; 0.38593057879010945 nm
+no true apo structure found
+apo_chain E
+holo_chain A
+True
+True
+HEM too close to NCM; 0.3808986412334373 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3wrk
+inadequate resolution of 2.61 A
+------------------------------------------------------
+apo: 3wrl
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['E']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to NCM; 0.3866493376746298 nm
+no true apo structure found
+apo_chain E
+holo_chain A
+True
+True
+HEM too close to NCM; 0.3746245740428175 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3wrm
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['F']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to NCM; 0.3850075403747575 nm
+no true apo structure found
+apo_chain F
+holo_chain A
+True
+True
+HEM too close to NCM; 0.38103820715220016 nm
+no true apo structure found
+------------------------------------------------------------------------------------------------------------
+22506
+holo: 7est
+MONOMERIC
+regular chains: ['E']
+checking gaps in holo chain E
+------------------------------------------------------
+apo: 1b0e
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+SEI too close to 0Z2; 0.01937733746999252 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1btu
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+2BL too close to 0Z2; 0.06465445091130517 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1e34
+MONOMERIC
+regular chains: ['B']
+apo_chain B
+holo_chain E
+True
+True
+TPX too close to 0Z2; 0.06141651691497618 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1e35
+MONOMERIC
+regular chains: ['B']
+apo_chain B
+holo_chain E
+True
+True
+TPX too close to 0Z2; 0.06464419745008482 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1e36
+MONOMERIC
+regular chains: ['B']
+apo_chain B
+holo_chain E
+True
+True
+TPY too close to 0Z2; 0.06500427678769129 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1e37
+MONOMERIC
+regular chains: ['B']
+apo_chain B
+holo_chain E
+True
+True
+TPY too close to 0Z2; 0.06617645871162439 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1e38
+MONOMERIC
+regular chains: ['B']
+apo_chain B
+holo_chain E
+True
+True
+TPY too close to 0Z2; 0.0570460129696063 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1eas
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+SO4 too close to 0Z2; 0.33105690776213004 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1eat
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+TFI too close to 0Z2; 0.033760201374782695 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1eau
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+BDK too close to 0Z2; 0.017270673208031224 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1elf
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+False
+False
+numbering mismatch in pdb files at residue 36; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 1elg
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+False
+False
+numbering mismatch in pdb files at residue 36; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 1esa
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+False
+False
+numbering mismatch in pdb files at residue 36; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 1esb
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+False
+False
+numbering mismatch in pdb files at residue 36; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 1est
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+TSU too close to 0Z2; 0.13734734688166172 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1fle
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 1gvk
+skipping DIMERIC assembly
+MONOMERIC
+regular chains: ['B']
+apo_chain B
+holo_chain E
+True
+True
+pair found; rmsd 0.034996744245290756
+------------------------------------------------------
+apo: 1h9l
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 1haz
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 1inc
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+ICL too close to 0Z2; 0.029205960215082826 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1jim
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+ICU too close to 0Z2; 0.029603250956848893 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1lvy
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+pair found; rmsd 0.028512949123978615
+------------------------------------------------------
+apo: 1okx
+inadequate resolution of 2.8 A
+------------------------------------------------------
+apo: 1qgf
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+TPX too close to 0Z2; 0.07285993249416303 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1qix
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 2bb4
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 2bd2
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 2bd3
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 2bd5
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 2bd7
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 2bd8
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 2bd9
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+pair found; rmsd 0.029515676200389862
+------------------------------------------------------
+apo: 2bda
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 2bdc
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+pair found; rmsd 0.03474586829543114
+------------------------------------------------------
+apo: 2fo9
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+False
+False
+numbering mismatch in pdb files at residue 36; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 2foa
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+False
+False
+numbering mismatch in pdb files at residue 36; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 2fob
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+False
+False
+numbering mismatch in pdb files at residue 36; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 2foc
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+False
+False
+numbering mismatch in pdb files at residue 36; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 2fod
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+False
+False
+numbering mismatch in pdb files at residue 36; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 2foe
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+False
+False
+numbering mismatch in pdb files at residue 36; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 2fof
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+False
+False
+numbering mismatch in pdb files at residue 36; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 2fog
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+False
+False
+numbering mismatch in pdb files at residue 36; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 2foh
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+False
+False
+numbering mismatch in pdb files at residue 36; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 2h1u
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 3e3t
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+False
+False
+numbering mismatch in pdb files at residue 16; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 3est
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+SO4 too close to 0Z2; 0.23780622362452716 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3mnb
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+SO4 too close to 0Z2; 0.2727514819331518 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3mnc
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+SO4 too close to 0Z2; 0.2747310331719302 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3mns
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+SO4 too close to 0Z2; 0.22624827579338153 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3mnx
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+SO4 too close to 0Z2; 0.25449688368322804 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3mo3
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+SO4 too close to 0Z2; 0.2523201089702408 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3mo6
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+SO4 too close to 0Z2; 0.22801480200282856 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3mo9
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+SO4 too close to 0Z2; 0.2562226465716658 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3moc
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+SO4 too close to 0Z2; 0.23961748453576484 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3mty
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+SO4 too close to 0Z2; 0.26872651252271207 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3mu0
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+SO4 too close to 0Z2; 0.2819997566594774 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3mu1
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+SO4 too close to 0Z2; 0.24902358669226968 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3mu4
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+SO4 too close to 0Z2; 0.2699970425949111 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3mu5
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+SO4 too close to 0Z2; 0.2772305970534532 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3mu8
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+SO4 too close to 0Z2; 0.2696747616724738 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3odd
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+SO4 too close to 0Z2; 0.27137317285196044 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3odf
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+SO4 too close to 0Z2; 0.2705826551674034 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4est
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 5avd
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+False
+False
+numbering mismatch in pdb files at residue 36; may be useable if renumbered
+no true apo structure found
+------------------------------------------------------
+apo: 5est
+MONOMERIC
+regular chains: ['E']
+apo_chain E
+holo_chain E
+True
+True
+0P2 too close to 0Z2; 0.03430286870445011 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6est
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+DMF too close to 0Z2; 0.20164663501036428 nm
+no true apo structure found
+------------------------------------------------------
+apo: 8est
+MONOMERIC
+regular chains: ['E']
+apo_chain E
+holo_chain E
+True
+True
+GIS too close to 0Z2; 0.030921177040353753 nm
+no true apo structure found
+------------------------------------------------------
+apo: 9est
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+IBR too close to 0Z2; 0.09357061249156456 nm
+no true apo structure found
+------------------------------------------------------------------------------------------------------------
+22507
+holo: 7gss
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------------------------------------------------------------
+22508
+holo: 7jdw
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------------------------------------------------------------
+22509
+holo: 7nse
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------------------------------------------------------------
+22510
+holo: 7tim
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------------------------------------------------------------
+22511
+holo: 7upj
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------------------------------------------------------------
+22512
+holo: 821p
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------------------------------------------------------------
+22513
+holo: 8cpa
+MONOMERIC
+regular chains: ['A']
+checking gaps in holo chain A
+------------------------------------------------------
+apo: 1bav
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['B']
+MONOMERIC
+regular chains: ['C']
+MONOMERIC
+regular chains: ['D']
+apo_chain A
+holo_chain A
+True
+True
+BIP too close to AGF; 0.018625555615052157 nm
+no true apo structure found
+apo_chain B
+holo_chain A
+True
+True
+BIP too close to AGF; 0.010348146495435797 nm
+no true apo structure found
+apo_chain C
+holo_chain A
+True
+True
+BIP too close to AGF; 0.019801855202104705 nm
+no true apo structure found
+apo_chain D
+holo_chain A
+True
+True
+BIP too close to AGF; 0.008818159896654966 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5cpa
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+pair found; rmsd 0.047435056418180466
+------------------------------------------------------------------------------------------------------------
+22514
+holo: 8cpp
+MONOMERIC
+regular chains: ['A']
+checking gaps in holo chain A
+------------------------------------------------------
+apo: 1cp4
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to TCM; 0.27746281421112634 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1gek
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+HEM too close to TCM; 0.2770423346986162 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1gem
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to TCM; 0.2892271273386367 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1p2y
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+HEM too close to TCM; 0.2982313318807648 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1p7r
+inadequate resolution of 2.85 A
+------------------------------------------------------
+apo: 1pha
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to TCM; 0.2825303422460851 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1phb
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to TCM; 0.2827842757985464 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1phc
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to TCM; 0.2910013503484558 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1phd
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to TCM; 0.28875642011045866 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1phf
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to TCM; 0.2904869202182298 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1phg
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to TCM; 0.2835050332429377 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1rf9
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+False
+False
+HEM too close to TCM; 0.2825514507398254 nm
+no true apo structure found
+------------------------------------------------------
+apo: 2fe6
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+MNR too close to TCM; 0.3126656263255427 nm
+no true apo structure found
+------------------------------------------------------
+apo: 2fer
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+MNR too close to TCM; 0.2886731494285997 nm
+no true apo structure found
+------------------------------------------------------
+apo: 2h7q
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to TCM; 0.27918024009060083 nm
+no true apo structure found
+------------------------------------------------------
+apo: 2l8m
+nonstandard REMARK 2: REMARK   2 RESOLUTION. NOT APPLICABLE.                                          
+
+------------------------------------------------------
+apo: 2lqd
+nonstandard REMARK 2: REMARK   2 RESOLUTION. NOT APPLICABLE.                                          
+
+------------------------------------------------------
+apo: 3wrh
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['E']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to TCM; 0.2870663408148604 nm
+no true apo structure found
+apo_chain E
+holo_chain A
+True
+True
+HEM too close to TCM; 0.2730784261301191 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3wri
+inadequate resolution of 2.9 A
+------------------------------------------------------
+apo: 3wrj
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['E']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to TCM; 0.28645104768098306 nm
+no true apo structure found
+apo_chain E
+holo_chain A
+True
+True
+HEM too close to TCM; 0.27768037782411553 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3wrk
+inadequate resolution of 2.61 A
+------------------------------------------------------
+apo: 3wrl
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['E']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to TCM; 0.2835690585753356 nm
+no true apo structure found
+apo_chain E
+holo_chain A
+True
+True
+HEM too close to TCM; 0.2772773522890164 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3wrm
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['F']
+apo_chain A
+holo_chain A
+True
+True
+HEM too close to TCM; 0.2910855686244861 nm
+no true apo structure found
+apo_chain F
+holo_chain A
+True
+True
+HEM too close to TCM; 0.2776307225945027 nm
+no true apo structure found
+------------------------------------------------------------------------------------------------------------
+22515
+holo: 8gss
+skipping DIMERIC assembly
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------------------------------------------------------------
+22516
+holo: 8icd
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------------------------------------------------------------
+22517
+holo: 8jdw
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------------------------------------------------------------
+22518
+holo: 8nse
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------------------------------------------------------------
+22519
+holo: 8tln
+MONOMERIC
+regular chains: ['E']
+checking gaps in holo chain E
+------------------------------------------------------
+apo: 1fj3
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.3932084111116555 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1fjo
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.39428916082316434 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1fjq
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.3873071441466874 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1fju
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.3945042673420565 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1fjv
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.39210102453208906 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1fjw
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.38503952452384516 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1l3f
+MONOMERIC
+regular chains: ['E']
+apo_chain E
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.4275179901158014 nm
+no true apo structure found
+------------------------------------------------------
+apo: 1tli
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 1trl
+nonstandard REMARK 2: REMARK   2 RESOLUTION. NOT APPLICABLE.                                          
+
+------------------------------------------------------
+apo: 2a7g
+MONOMERIC
+regular chains: ['E']
+apo_chain E
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.38713778493704887 nm
+no true apo structure found
+------------------------------------------------------
+apo: 2g4z
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+pair found; rmsd 0.026675982400774956
+------------------------------------------------------
+apo: 2tli
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 3eim
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+CU1 too close to VAL LYS; 0.4324298548428137 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3for
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.39364066044318285 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3p7p
+MONOMERIC
+regular chains: ['E']
+apo_chain E
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.38753238011350777 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3p7q
+MONOMERIC
+regular chains: ['E']
+apo_chain E
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.3864502098648812 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3p7r
+MONOMERIC
+regular chains: ['E']
+apo_chain E
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.38535615662750883 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3p7s
+MONOMERIC
+regular chains: ['E']
+apo_chain E
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.38440944192319776 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3p7t
+MONOMERIC
+regular chains: ['E']
+apo_chain E
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.3900366716758309 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3p7u
+MONOMERIC
+regular chains: ['E']
+apo_chain E
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.3919501273452149 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3p7v
+MONOMERIC
+regular chains: ['E']
+apo_chain E
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.39406948462358965 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3p7w
+MONOMERIC
+regular chains: ['E']
+apo_chain E
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.38843651281453795 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3t2h
+MONOMERIC
+regular chains: ['E']
+apo_chain E
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.4328024584150113 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3t2i
+MONOMERIC
+regular chains: ['E']
+apo_chain E
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.417508632235708 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3t2j
+MONOMERIC
+regular chains: ['E']
+apo_chain E
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.4341821547238505 nm
+no true apo structure found
+------------------------------------------------------
+apo: 3tli
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 4m65
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.3960220527592312 nm
+no true apo structure found
+------------------------------------------------------
+apo: 4tli
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.3981844732317354 nm
+no true apo structure found
+------------------------------------------------------
+apo: 5hqd
+inadequate resolution of 2.52 A
+------------------------------------------------------
+apo: 5tli
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.39462744243941805 nm
+no true apo structure found
+------------------------------------------------------
+apo: 6fhp
+skipping DIMERIC assembly
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------
+apo: 6tli
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.39587626995472175 nm
+no true apo structure found
+------------------------------------------------------
+apo: 7tli
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.40274224503646405 nm
+no true apo structure found
+------------------------------------------------------
+apo: 7tln
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.38300213067031386 nm
+no true apo structure found
+------------------------------------------------------
+apo: 8tli
+MONOMERIC
+regular chains: ['A']
+apo_chain A
+holo_chain E
+True
+True
+CA too close to VAL LYS; 0.3947095927784375 nm
+no true apo structure found
+------------------------------------------------------------------------------------------------------------
+22520
+holo: 966c
+MONOMERIC
+regular chains: ['A']
+checking gaps in holo chain A
+------------------------------------------------------
+apo: 1ayk
+nonstandard REMARK 2: REMARK   2 RESOLUTION. NOT APPLICABLE.                                          
+
+------------------------------------------------------
+apo: 2ayk
+nonstandard REMARK 2: REMARK   2 RESOLUTION. NOT APPLICABLE.                                          
+
+------------------------------------------------------
+apo: 2j0t
+inadequate resolution of 2.54 A
+------------------------------------------------------
+apo: 3ayk
+nonstandard REMARK 2: REMARK   2 RESOLUTION. NOT APPLICABLE.                                          
+
+------------------------------------------------------
+apo: 3shi
+MONOMERIC
+regular chains: ['A']
+MONOMERIC
+regular chains: ['G']
+MONOMERIC
+regular chains: ['M']
+apo_chain A
+holo_chain A
+False
+False
+pair found; rmsd 0.057188574224710464
+apo_chain G
+holo_chain A
+False
+False
+pair found; rmsd 0.05379975587129593
+apo_chain M
+holo_chain A
+False
+False
+pair found; rmsd 0.04431060329079628
+------------------------------------------------------
+apo: 4ayk
+nonstandard REMARK 2: REMARK   2 RESOLUTION. NOT APPLICABLE.                                          
+
+------------------------------------------------------------------------------------------------------------
+22521
+holo: 9gss
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------------------------------------------------------------
+22522
+holo: 9icd
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------------------------------------------------------------
+22523
+holo: 9jdw
+skipping DIMERIC assembly
+no monomers found
+------------------------------------------------------------------------------------------------------------
+22524
+holo: 9nse
+skipping DIMERIC assembly
+no monomers found
+Traceback (most recent call last):
+  File "filter_blast2pairs.py", line 841, in <module>
+    holo_id = blast_out[holo_candidate][0:4].lower() #get id at index
+IndexError: list index out of range
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node114.engr.wustl.edu>
+Subject: Job 1608345[10]: <job_Array[1-10]> in cluster <SEAS-COMPUTE> Exited
+
+Job <job_Array[1-10]> was submitted from host <node19.engr.wustl.edu> by user <borowsky.jonathan> in cluster <SEAS-COMPUTE> at Thu Mar  3 08:52:42 2022
+Job was executed on host(s) <node114.engr.wustl.edu>, in queue <bowman>, as user <borowsky.jonathan> in cluster <SEAS-COMPUTE> at Thu Mar  3 08:37:05 2022
+</home/research/borowsky.jonathan> was used as the home directory.
+</project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/cryptic-pocket-filtering-2/automatic_filter_1> was used as the working directory.
+Started at Thu Mar  3 08:37:05 2022
+Terminated at Thu Mar  3 09:30:48 2022
+Results reported at Thu Mar  3 09:30:48 2022
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/sh
+#BSUB -q bowman
+#BSUB -W 120:00
+#BSUB -n 1
+#BSUB -R "span[ptile=1]" && '(!gpu)'
+#BSUB -J setup
+#BSUB -o filter-%J-%I.log
+#BSUB -e filter-%J-%I.log
+
+prot_indices=() #initialize array
+
+#/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/iofiles/lsf_logs/
+#read standard input file "line" into array
+#NOTE: this only reads lines followed by enters (\n). It will not read the last line of the file as a result
+while read line
+do
+#  echo "$line"
+  prot_indices=("${prot_indices[@]}" "$line") #add current line to array
+done < "${1:-/dev/stdin}"
+
+#echo "${prot_indices[@]}"
+#echo "${prot_indices[0]}"
+#echo "${prot_indices[1]}"
+
+#run filtering script
+python filter_blast2pairs.py "${prot_indices[0]}" "${prot_indices[1]}"
+
+#note on usage:
+#run by auto_filter.sh, using bsub -J "job_Array[1-10]" -i "filter_in.%I" -o "filter_out.%I" -e "filter_out.%I" < filter-submit-array.bsub
+
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   1479.17 sec.
+    Max Memory :                                 -
+    Average Memory :                             -
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                99
+    Run time :                                   3226 sec.
+    Turnaround time :                            2286 sec.
+
+The output (if any) is above this job summary.
+

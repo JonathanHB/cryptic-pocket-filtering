@@ -1,0 +1,14 @@
+#!/bin/sh
+#BSUB -q bowman
+#BSUB -W 120:00
+#BSUB -R "span[ptile=1]"
+#BSUB -J findpairs
+#BSUB -o pairing-index_arg1-%J.log
+#BSUB -e pairing-index_arg1-%J.log
+
+#this script is submitted by auto_filter_noarray.sh, which replaces index_arg1 and index_arg2 with the appropriate indices
+
+source /project/bowmore/borowsky.jonathan/anaconda3/bin/activate
+conda activate snakes
+
+python /project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/cryptic-pocket-filtering-2/automatic_filter_1/filter_blast2pairs.py index_arg1 index_arg2

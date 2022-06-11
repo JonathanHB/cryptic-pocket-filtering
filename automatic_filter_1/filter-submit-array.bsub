@@ -1,0 +1,29 @@
+#!/bin/sh
+#BSUB -q bowman
+#BSUB -W 120:00
+#BSUB -n 1
+#BSUB -R "span[ptile=1]" && '(!gpu)'
+#BSUB -J setup
+#BSUB -o filter-%J-%I.log
+#BSUB -e filter-%J-%I.log
+
+prot_indices=() #initialize array
+
+#/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/iofiles/lsf_logs/
+#read standard input file "line" into array
+#NOTE: this only reads lines followed by enters (\n). It will not read the last line of the file as a result
+while read line
+do
+#  echo "$line"
+  prot_indices=("${prot_indices[@]}" "$line") #add current line to array
+done < "${1:-/dev/stdin}"
+
+#echo "${prot_indices[@]}"
+#echo "${prot_indices[0]}"
+#echo "${prot_indices[1]}"
+
+#run filtering script
+python filter_blast2pairs.py "${prot_indices[0]}" "${prot_indices[1]}"
+
+#note on usage:
+#run by auto_filter.sh, using bsub -J "job_Array[1-10]" -i "filter_in.%I" -o "filter_out.%I" -e "filter_out.%I" < filter-submit-array.bsub

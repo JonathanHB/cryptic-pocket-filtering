@@ -1,0 +1,63 @@
+------------------------------------------------------------------------------------------------------------
+12500
+holo: 1led
+skipping DIMERIC assembly
+Traceback (most recent call last):
+  File "/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/cryptic-pocket-filtering-2/automatic_filter_1/filter_blast2pairs.py", line 849, in <module>
+    holo_chains_unfiltered = getstruct(holo_id, existing_hids, "holo")
+  File "/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/cryptic-pocket-filtering-2/automatic_filter_1/filter_blast2pairs.py", line 161, in getstruct
+    log_prot_rejection(f"{struct} is a {asm_type} assembly")
+  File "/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/cryptic-pocket-filtering-2/automatic_filter_1/filter_blast2pairs.py", line 37, in log_prot_rejection
+    with open(f"{directory}/note_files/protein_rejection_reasons.log", 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/iofiles_na/note_files/protein_rejection_reasons.log'
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node101.engr.wustl.edu>
+Subject: Job 1608523: <findpairs> in cluster <SEAS-COMPUTE> Exited
+
+Job <findpairs> was submitted from host <node19.engr.wustl.edu> by user <borowsky.jonathan> in cluster <SEAS-COMPUTE> at Thu Mar  3 11:34:49 2022
+Job was executed on host(s) <node101.engr.wustl.edu>, in queue <bowman>, as user <borowsky.jonathan> in cluster <SEAS-COMPUTE> at Thu Mar  3 11:34:50 2022
+</home/research/borowsky.jonathan> was used as the home directory.
+</project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/cryptic-pocket-filtering-2/automatic_filter_1> was used as the working directory.
+Started at Thu Mar  3 11:34:50 2022
+Terminated at Thu Mar  3 11:35:32 2022
+Results reported at Thu Mar  3 11:35:32 2022
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/sh
+#BSUB -q bowman
+#BSUB -W 120:00
+#BSUB -R "span[ptile=1]"
+#BSUB -J findpairs
+#BSUB -o pairing-12500-%J.log
+#BSUB -e pairing-12500-%J.log
+
+#this script is submitted by auto_filter_noarray.sh, which replaces 12500 and 15000 with the appropriate indices
+
+source /project/bowmore/borowsky.jonathan/anaconda3/bin/activate
+conda activate snakes
+
+python /project/bowmanlab/borowsky.jonathan/FAST-cs/protein-sets/new_pockets_2/cryptic-pocket-filtering-2/automatic_filter_1/filter_blast2pairs.py 12500 15000
+
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   3.44 sec.
+    Max Memory :                                 -
+    Average Memory :                             -
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                132
+    Run time :                                   33 sec.
+    Turnaround time :                            43 sec.
+
+The output (if any) is above this job summary.
+
